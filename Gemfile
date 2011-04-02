@@ -46,4 +46,5 @@ group :development, :test do
   gem "jammit"
   gem "vcr"
   gem "webmock"
+  gem "ruby-prof"
 end
